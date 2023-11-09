@@ -11,10 +11,13 @@ The Student Management System is a robust software application designed for educ
 - Default Login Credentials:
   - Username: `Admin`
   - Password: `Password`
+![image](https://github.com/echefulouis/Student-Management-System/assets/55154145/0e0becf2-8d28-42bf-8f1b-0a9919010649)
 
 ### Student Management
 - Add Student Records: Administrators can effortlessly create new student records using a dedicated stored procedure.
 - View Student Records: The system displays a comprehensive table containing all student records.
+
+![image](https://github.com/echefulouis/Student-Management-System/assets/55154145/003a7535-5fe7-41a0-9d80-4c736b7e0023)
 
 ### Department Management
 - Add New Departments: Administrators can establish new departments, complete with relevant details, utilizing a specialized stored procedure.
