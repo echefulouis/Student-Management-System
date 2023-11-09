@@ -11,6 +11,8 @@ The Student Management System is a robust software application designed for educ
 - Default Login Credentials:
   - Username: `Admin`
   - Password: `Password`
+ 
+    
 ![image](https://github.com/echefulouis/Student-Management-System/assets/55154145/0e0becf2-8d28-42bf-8f1b-0a9919010649)
 
 ### Student Management
